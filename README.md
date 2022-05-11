@@ -2,4 +2,4 @@
 
 132 Sample avatars exported from figma, content reels plugin
 
-![Uploading Screenshot 2022-05-11 at 13.12.29.png…]()
+![https://user-images.githubusercontent.com/6873202/167814517-4d8adb9b-8e9a-471d-a936-00b91c7e44f9.png]()
