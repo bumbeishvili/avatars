@@ -8,7 +8,7 @@
 Sample link first
 
 
-`https://bumbeishvili.github.io/avatars/avatars/portrait1.png`
+```https://bumbeishvili.github.io/avatars/avatars/portrait1.png```
 
 ![](https://bumbeishvili.github.io/avatars/avatars/portrait1.png)
 
@@ -16,6 +16,6 @@ Sample link first
 Sample link last 
 
 
-`https://bumbeishvili.github.io/avatars/avatars/portrait132.png`
+```https://bumbeishvili.github.io/avatars/avatars/portrait132.png```
 
 ![](https://bumbeishvili.github.io/avatars/avatars/portrait132.png)
